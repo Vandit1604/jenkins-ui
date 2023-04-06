@@ -24,7 +24,11 @@
   --body-font-size--print: 0.9375em; /* 15px */
   --body-line-height: 1.15;
   --body-font-color: var(--color-jet-70);
+<<<<<<< HEAD
   --body-font-family: "Roboto", sans-serif;
+=======
+  --body-font-family: system-ui, "Segoe UI" , "roboto" , "Noto Sans" , "oxygen" , "ubuntu" , "cantarell" , "Fira Sans" , "Droid Sans" , "Helvetica Neue" , arial , sans-serif , "Apple Color Emoji" , "Segoe UI Emoji" , "Segoe UI Symbol" ,"Roboto", sans-serif;
+>>>>>>> ead986c (initial commit)
   --body-font-weight-bold: 500;
   --monospace-font-family: "Roboto Mono", monospace;
   --monospace-font-weight-bold: 500;
